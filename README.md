@@ -122,16 +122,6 @@ npm install
 npm run dev
 
 
-License
-
-MIT License
-
-Team
-
-Team 123AI
-Project Lead: Aakansha Jagga
-
-
 If you want next:
 - A **shorter README for hackathons**
 - A **gov-pilot version**
