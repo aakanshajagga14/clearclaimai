@@ -116,7 +116,7 @@ Estimated MVP cost: ₹5,000–10,000 per month
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/clearclaim-ai
+git clone https://github.com/your-username/clearclaim-ai](https://github.com/aakanshajagga14/clearclaimai/
 cd clearclaim-ai
 npm install
 npm run dev
@@ -131,8 +131,6 @@ Team
 Team 123AI
 Project Lead: Aakansha Jagga
 
-
----
 
 If you want next:
 - A **shorter README for hackathons**
